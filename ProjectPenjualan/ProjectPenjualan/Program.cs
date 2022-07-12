@@ -82,7 +82,6 @@ namespace ProjectPenjualan
             Console.WriteLine("\nTekan ENTER untuk kembali ke menu");
             Console.ReadKey();
         }
-
         static void TampilkanPenjualan()
         {
             Console.Clear();
@@ -95,7 +94,6 @@ namespace ProjectPenjualan
             }
 
             // PERINTAH: lengkapi kode untuk menampilkan daftar penjualan yang ada di dalam collection
-
             Console.WriteLine("\nTekan enter untuk kembali ke menu");
             Console.ReadKey();
         }
